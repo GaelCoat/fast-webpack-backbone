@@ -30,4 +30,3 @@ node_modules
 .DS_*
 
 *.DS_Store
-src
